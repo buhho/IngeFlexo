@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9d38eaaf-6124-4a1c-b531-7bbdc8a1d3d0/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/IngeFlexoGP",
+    "appService.deploySubpath": "."
+}
